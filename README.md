@@ -3,7 +3,7 @@
 ## Overview
 The **Lecture Summarizer** is an AI-powered tool that extracts **audio** and **visual** content from lecture videos, transcribes spoken words, performs **OCR on board content**, and combines the extracted text into a **structured summary**. The summarized content is then formatted into a **well-organized PDF** using an **LLM-based approach**.
 
-<img width="1512" alt="image" src="https://github.com/user-attachments/assets/0129a9a7-139f-43b6-91f1-5dd667d5311d" />
+<img width="1512" alt="image" src="(https://github.com/user-attachments/assets/a987d338-f703-4839-90a5-5d559b98e666)" />
 
 
 ## 🔥 Features
